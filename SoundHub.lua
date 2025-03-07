@@ -87,7 +87,7 @@ local Lighting = game:GetService("Lighting")
     local RAGDOLL_ON = false
 
     -- WALKSPEED VARIABLES
-    local IS_MODIFYING = false
+    local IS_MODIFYING = true
     local WALKSPEED = defaultWalkspeed
 
     -- CAMLOCK VARIABLES
